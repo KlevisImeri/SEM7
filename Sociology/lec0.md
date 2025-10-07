@@ -70,7 +70,7 @@ Brazil 200 million -> 5-10 million liven standarts to westian EU
 wellfare are social democratic states  (Skandinavie, norway, sweedem, findland, ...)
 part of the potical process was to minimize the income inequality
 
-### THe reverse curve Manufac vs Finance
+### THe reverse curve Manufac vs Finance (DeInduistralisation) -> labor coust
 manufacturing -> producntion of physical goods
 finace -> things have to do with money
 
@@ -107,10 +107,125 @@ In US if you miss three they literally kick you
 
 for forclosure it doesnt have ot be the hosue
 
-### Questions
-In essay should we write: 
-- You like examples a lot 
+forclosure the landing instuution takes back the collateral;
+For a home or real estate: "In a foreclosure, the lending institution forecloses on the collateral."
+For any collateral (general term): "In a foreclosure action, the lending institution seizes the collateral."
 
+Union is an organizaiont who represent the employies
+
+### Lec2  
+A critique of Neoclassical economics;
+DeInduistralisation 
+-> Labor cost 
+-> Less worker protected
+
+"blue color" -> physical jobs
+"white collor" -> whitecolor workers
+
+deregulation -> more like reregulation
+Ficticus
+
+interest rate 2% -> 10 % 0.1% 
+
+going public, shares introduced in stock Market
+
+in old bvaking paradime the bakers are prohibiteed to borrwo in deposoted savings
+
+The Glass -Stegall Act -> co sponsopred the bill  (1933)
+1. Retail banking  (daily basses Bank stuff apply for morgaces open bank account ..)
+-------                -> set up frewall 
+2. Investmetn banking (making large scale investments, financin abisous product)
+-------
+3. Insurace industry (protecting agains the rist) 
+
+why insurace and retail
+Derivative 
+
+500k $ morgage
+
+sell outstanding dept to third parites
+
+Rating agencies rate tehe credit worthness, investment wrothnes
+
+S&P, Fitch, Moody's
+
+## Lec3
+Advertising si the par of making people **spent money they 
+don't have**[1] to **buy things they don't need**[2] in order to 
+**impress people they dont care about**[3].
+
+
+Securitizaion food change
+
+Old days: Morgages took decades to apy 
+
+lender sold the morgages (outsending dept) 
+to invesments bandk who created complex derivatives
+(CDO's) sell to invectors
+Rating agencies triple AAA ratings
+
+subprime morgate 
+
+subprime -> variable intersetrate
+$1000 interest 5% 
+6400.000 => 1%
+peg(ged) -> stoced market index
+
+if a log of 
+
+monthly depped service
+SEC := security and exchange commision
+
+leverage ratio
+
+bail out 
+
+bail out (verbal)
+bailout (noun) => 
+
+"neoclassicist pure abstract"
+there is no free lunch
+
+"market economy innamagible"
+
+unconditional
+
+
+### Neoclassical economic theory is
+1. a deductivist epistemology (theroy of knowledge)
+prefering mathematical formalisation 
+or unrealistic assumptions
+
+
+Deductions 
+- start from assumtions
+mean exaplainng the state of affares with respect to you 
+inverifed assumtions
+
+Or natural sciences are based in induction
+from the world you try to conclude what should happen
+![](assets/deductionVsInduction.png)
+
+Deduction in neoclassicist economis: 
+- we are perfect logical beings
+- all infromation avalible
+are unrealistic assumtions
+
+2. intellectualist philosophy 
+backed in the idea of **complete awareness**
+
+3. an **atomistic** pr **discontinuist** 
+view of the social world
+
+
+it glosses over collective behaviour 
+the BONDS (fashion, trendin stufu and ***POLITICAL POWER***)
+
+
+### Questions
+there are savign (bailing out) the invectors
+In essay should we write:
+- You like examples a lot
 
 
 
