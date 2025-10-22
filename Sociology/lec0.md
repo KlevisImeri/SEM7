@@ -222,10 +222,154 @@ it glosses over collective behaviour
 the BONDS (fashion, trendin stufu and ***POLITICAL POWER***)
 
 
+###  Thornstorm Veblen - THE theory of the leisure class (bsc) 1899
+
+"Sociolize the cost, privatize the profits"
+Political power
+
+  - upper class
+ --- middle class
+----- working class
+⩓
+|
+|
+| Bottom
+
+Stead
+Subsistance Economies := house holds preduce most of the stuff they produce
+critique of the van nassan field fo the classical economcis
+
+
+autonomous (independet) consumer demand => create, synthetize, manipulate,
+
+Malsow pyramid of humanities 
+
+Higher up the more unessasry the needs the easier to manipulate
+     *          - self actualizatoin | realization
+    ***         
+   *****
+  *******
+ *********      
+***********     - survival related needs
+
+- social standing prestigue goes up the more needs
+
+- conspicuous (cleary visible) consumption
+display of execellence
+waste of money & time & effort
+
+barred from working
+
+[savagerie | peaceable] ->  berberism 
+(hunger=gather tribal soc)  Predatory lifestyle  War economy
+
+anthropological - humans | logos
+physical anthropological
+cutural (human behaviour)
+
+
+
+     [*]           - Create a power elite | leauser class  would end up exempt of labor
+    ***             higher midle class 
+   *****            miidle class
+  *******           lower middle class       
+ *********          - Working class | Social structure
+
+[*] - the first item of conspicuous female captives  
+
+[booty] m- treausre
+
+emulatoin :=  trying to copy (emulate) the lifestyle fo the lifestyle fo the one higher class for them
+
+invidious distinction := to distinct yourslef in order to make yourslef invidious
+(envious)
+
+fomo is invidious
+
+
+transgression := typically have to do with violizaiont of day to day unwritten rules
+
+
+### Emile Durkheim (1858) a jew into an orthosox rabbie al from the side of the fatehr
+alsace / Lorvaince
+The rules of sociological method (human conducnt in a collective context | Peer presure)
+social facts := there is regulation from the outside 
+not subject to socila regualation akak unregulated is  (parts of our nevvor system  are not regulated from outside)
+
+Emile Durkheim - The Rules of Sociological method
+
+social facts coercive compelliatg
+rules of behaviour implicit "under the radiar"
+templates
+
+legal rules are explicit 
+
+too much envolment with you own socila facts on you daily level 
+this is a hindrance
+
+Grumpy letdown fustrated 
+
+896 
+1001 Kindom of Hungary 
+
+social facts are the raw materials for sociological study
+
+Template ->         [..  ... ]  . -> transgartoin are the points outside
+blowing once noise    . .  .    .
+                    [.  .....]
+
+socializatoin is the fucntion and the process and end result of of witch 
+is to learn the rules of behaviour
+
+unlearning
+
+"""" A social fct is ***every way of acting***, capable of exercision on the 
+individual ***an external constaring***. whil eof the same time existing in its  
+own right ***independent of its individial manifestatation***.
+
+fully and radically individual
+
+Rule 1:  Cosider social facts as things (They are observable phenomena). 
+Chemical bonds
+Rule 2: All preconceptions must be eradicated. (unlearning / be puzzeled by simple things)
+abbility of not taking for granted things that are typically taking for granted
+Rule 3: socail facts must be considerst independily of their individual 
+manifestatation
+
+
+RACES ara not biological categrories but social
+
+within variance
+
+height
+|   * * 
+| * * * *     *
+|  *  *     * * * 
+___________> weight
+
+
+between variacen between groups
+N = 20 
+
+|   . **
+|  . ****   -> tremendious overlap
+|   ..**
+|
+____________>
+
+
+There is more within varince then between varience
+between black, they differ more between themselfs then with white pople
+
+
+For RACES to classify in biology the between varience has to be greated 
+then within varince for properties varialbes in biology
+
+preception "is sociolly directed" 
+
 ### Questions
 there are savign (bailing out) the invectors
 In essay should we write:
 - You like examples a lot
-
 
 
