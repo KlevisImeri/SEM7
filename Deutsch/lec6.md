@@ -274,3 +274,16 @@ Dies ist die Übersetzung des gesamten Arbeitsblattes, strukturiert nach den Ori
 
 *Sie haben ein Problem, das Sie mit Ihrem/Ihrer Dozent\*in klären müssen (Abgabetermin, Anwesenheit in der Stunde, einen Termin besprechen etc.) Schreiben Sie einen kurzen Brief (eine Mail) an ihn/sie. Achten Sie auf den Stil, auf die Sprache und auf die formalen Merkmale (Anrede, Gruß etc.).*
 (You have a problem that you need to clarify with your lecturer/professor (submission deadline, attendance in class, discussing an appointment, etc.) Write a short letter (an email) to him/her. Pay attention to the style, the language, and the formal characteristics (salutation, closing, etc.).)
+
+
+
+
+Es its wirichten, die LaustStatke zu haletn 
+
+
+D 
+
+C
+
+4 -> A
+6 -> E
