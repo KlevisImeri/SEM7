@@ -1,0 +1,120 @@
+\documentclass{article}
+
+% --- PACKAGES ---
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[hidelinks]{hyperref} % Removes the blue box/line from the link
+\usepackage{geometry} % For setting margins
+\usepackage{parskip} % Adds space between paragraphs and removes indent
+
+% Customize margins for a cleaner letter look
+\geometry{
+    a4paper,
+    top=2.5cm,
+    bottom=2.5cm,
+    left=2.5cm,
+    right=2.5cm,
+}
+
+% Optional: Command to set the date manually (since the image shows Nov 30, 2025)
+\newcommand{\LetterDate}{November 30, 2025}
+
+\pagestyle{empty} % Removes page numbers
+
+\begin{document}
+
+% --- HEADER: RECIPIENT INFO (Left) and APPLICANT INFO (Right) ---
+% Using two minipages to put them side-by-side
+\noindent
+\begin{minipage}[t]{0.5\textwidth} % Left half: Recipient Info
+    ETH Zurich \\
+    Admissions Office \\
+    Rämistrasse 101 \\
+    8092 Zürich \\
+    Switzerland
+\end{minipage}%
+\hfill % Pushes the next minipage to the right
+\begin{minipage}[t]{0.5\textwidth} % Right half: Applicant Info
+    \begin{flushright}
+        \textbf{Klevis Imeri} \\
+        ANDRÁSSY ÚT 83-85 \\
+        1062 BUDAPEST Hungary \\
+        \href{mailto:klevisimeri11@gmail.com}{klevisimeri11@gmail.com} \\ % Mailto is better for email
+        +36 70 538 4797
+    \end{flushright}
+\end{minipage}
+
+\vspace{0.8cm} % Space between header and subject line
+
+% --- SUBJECT LINE ---
+\textbf{Motivation Letter for the MSc in Computer Science}
+
+\vspace{0.5cm} % Space between subject and salutation
+
+% --- SALUTATION ---
+Dear Members of the Selection Committee,
+
+\vspace{0.5cm}
+
+% --- BODY TEXT (Final Spelling and Punctuation Corrections) ---
+Since my first line of code in high school, where I was fed up doing
+calculations by hand for the olympiads in physics, till
+today, I have come to the conclusion that writing software is doable, but
+writing reliable and secure software is hard. As a result, I have devoted
+myself to researching ways to verify software without the need of human
+labor.
+
+One method to automate this process is model checking in formal methods.
+That is the field I do my research on. Currently, I do this research at BME in the
+FTSRG research group, where we apply and test our software in the Theta
+framework using SV-COMP. I work on ways to pass the partial results from
+different model checking algorithms like CEGAR, K-induction, and IMC. These
+partial results happen when we decide on using some heuristics and AI models that
+a specific algorithm is not able to solve this verification task. I have had
+some good results on this, for which I also got first prize in the TDK (Student Scientific Conference) at BME. The reason I chose this field is that I love
+mathematics. Especially exact mathematics with solvers and graphs. I must
+mention, I just love a nice problem to think about. As a result, I also do a lot
+of competitive programming with the Computing Programming Group at BME.
+I also represented BME at ICPC CERC 2023.
+
+When it comes to courses, I usually focus on security and networks, while I am
+also part of the database group at BME as a lab instructor. I have a lot of
+knowledge when it comes to internet protocols, especially in IPSec.
+
+ETH Zurich has a lot of work done in this field, also especially in the Viper
+Verification Infrastructure with its frontend tools. Formal methods had a
+broader applicability than just verifying software, so there is also work in
+applying these formal methods in security, especially verifying important
+protocols with tools such as Tamarin Prover.
+
+I dedicate my life to science and engineering. I spend nearly 12 hours every day
+in this field. People say I am gifted. I only gift I have is being alive and
+struggling towards something greater. I try to work the hardest to my humanly
+capable limits. People usually judge my route for being inhuman routine. But this
+constant struggle to reach the peak of research in an infinite large mountain, is what keeps me
+going in life. It gives me the experience of the beauty of truth and the beauty
+of creation.
+
+Humans try to avoid change, because with change comes hardships to
+adapt. True, I could also continue my master's at BME Budapest where I am familiar
+with everything, and it would be quite easy. But I want to grow more, experience
+more, no matter how hard it is. And ETH Zurich is the place for my next journey,
+where it will allow me to do research in verifying software and also
+expand the formal methods field in the networks and security.
+
+\vspace{1cm} % Space between body and sign-off
+
+% --- SIGN OFF: SIGNATURE (Left) and DATE (Right) ---
+\noindent
+\begin{minipage}[t]{0.5\textwidth} % Left half: Signature Block
+    Sincerely,
+
+    Klevis Imeri
+\end{minipage}%
+\hfill % Pushes the next minipage to the right
+\begin{minipage}[t]{0.5\textwidth} % Right half: Date
+    \raggedleft % Aligns the date to the right
+    \LetterDate
+\end{minipage}
+
+\end{document}

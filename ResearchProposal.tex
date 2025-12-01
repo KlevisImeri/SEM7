@@ -1,0 +1,98 @@
+\documentclass[11pt, a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[english]{babel}
+\usepackage{geometry}
+\usepackage{amsmath}
+\usepackage{hyperref}
+\usepackage{setspace}
+
+\geometry{
+ a4paper,
+ total={170mm,257mm},
+ left=20mm,
+ top=20mm,
+}
+
+\onehalfspacing
+
+\begin{document}
+
+\begin{flushright}
+\textbf{Klevis Imeri} \\
+Budapest University of Technology and Economics \\
+\today \\
+\end{flushright}
+
+\vspace{1em}
+
+\textbf{ETH Zürich} \\
+SIS / Financial Aid Office \\
+(or relevant Professor/Department) \\
+Rämistrasse 101 \\
+8092 Zürich, Switzerland \\
+
+\vspace{1.5em}
+
+\noindent\rule{\linewidth}{0.4pt}
+\vspace{0.5em}
+\centering
+\textbf{\large Research Proposal Extension: Cooperative Verification through Partial Result Transfer and Deep Integration}
+\vspace{0.5em}
+\noindent\rule{\linewidth}{0.4pt}
+\vspace{1.5em}
+
+\textbf{Dear ETH Zürich Admissions / Research Committee,}
+
+I am writing to submit my academic record and my recent TDK Report, \textit{Improving Model Checking Portfolio Efficiency through Partial Result Transfer}, as an essential part of my application for further research or an Excellence Scholarship at ETH Zürich. My TDK project, completed at the Budapest University of Technology and Economics, directly addresses fundamental challenges in modern formal verification: algorithm cooperation and intelligent resource management.
+
+\section*{1. Summary of Previous Work (TDK Report)}
+
+My work focused on enhancing the performance of sequential algorithm portfolios, specifically combining CEGAR-based Predicate Abstraction (PredCart) and k-Induction (KInd), through two core contributions:
+
+\begin{enumerate}
+    \item \textbf{Simple Partial Result Transfer:} I developed a lightweight method to extract \textit{location invariants} from an incomplete PredCart run and \textit{inject} them as assumptions directly into the program's Control-Flow Automaton (XCFA) for the subsequent KInd algorithm. The evaluation demonstrated this approach successfully solved 13 verification tasks previously deemed unsolvable by the standalone algorithms.
+    \item \textbf{Online Timeout Prediction Heuristic:} To determine the optimal stopping time for the first algorithm, I implemented a novel, lightweight, online heuristic using a one-dimensional Recursive Least Squares (RLS) predictor with linearization for exponential growth. This heuristic achieved an F1 score of approximately $0.77$, demonstrating high precision ($\approx 91.8\%$) and specificity ($\approx 95.7\%$) in forecasting CEGAR timeouts.
+\end{enumerate}
+
+My TDK Report confirms the practical effectiveness of these methods within the \textsc{Theta} model checking framework.
+
+\section*{2. Proposed Future Research at ETH Zürich}
+
+Building upon the success and limitations identified in my TDK Future Work (Section 6.0.2), I propose to extend this research into the crucial areas of \textit{Deeper Algorithm Integration} and \textit{Inter-Tool Cooperation} within a state-of-the-art verification environment, ideally at ETH Zürich, given its prominent role in formal verification research.
+
+\subsection*{2.1. Deeper Integration into the Viper Verification Framework}
+
+My current method injects invariants at the XCFA level (syntactic). The next logical step, as outlined in my future work, is \textbf{Deeper Algorithm Integration}. A highly impactful direction would be to investigate the injection of invariants directly into the intermediate verification representations of a different framework.
+
+\textbf{Target:} The \textbf{Viper verification framework}, which is often associated with the expertise at ETH and its focus on deductive verification and separation logic, presents a compelling new challenge.
+
+\textbf{Objective:} To develop a new transfer mechanism capable of:
+\begin{itemize}
+    \item Converting the location invariants (First-Order Logic formulae) extracted from a model checker (like CEGAR) into a form compatible with Viper's internal representation (e.g., intermediate assertions, preconditions, or frame properties).
+    \item Directly injecting these verified properties as initial lemmas or verified contracts for methods/loops within the Viper framework, thereby alleviating the need for Viper's deductive verifier to re-prove them from scratch.
+\end{itemize}
+
+\subsection*{2.2. Advanced Cooperation and Invariant Filtering}
+
+To facilitate broader inter-tool cooperation, I propose:
+
+\begin{itemize}
+    \item \textbf{Witness Compatibility:} Implementation and validation of partial result transfer using the \textit{Witness 2.0} exchange format, allowing cooperation beyond a single verification framework.
+    \item \textbf{Invariant Filtering:} Research into mechanisms for selecting only the \textit{most beneficial} invariants (e.g., loop invariants) for transfer, rather than the entire ARG over-approximation, which would significantly reduce noise and enhance the performance of the subsequent verifier.
+\end{itemize}
+
+\section*{3. Conclusion}
+
+The results of my TDK Report provide a strong foundation and a novel perspective on cooperative verification. Continuing this research at ETH Zürich, with a targeted integration into the Viper framework, promises significant advancements in solving complex, previously intractable verification problems through heterogeneous algorithm cooperation.
+
+I am confident that my experience in model checking, predictive heuristics (RLS), and implementation within a verification framework makes me an excellent candidate to pursue these objectives within your environment. I look forward to the opportunity to discuss my TDK project and this proposed research extension in a formal interview.
+
+\vspace{2em}
+\textbf{Sincerely,} \\
+\vspace{0.5em}
+Klevis Imeri \\
+\textit{TDK Author, Budapest University of Technology and Economics} \\
+\textit{Email: klevis.imeri@example.com (Placeholder)}
+
+\end{document}
