@@ -1,3 +1,6 @@
+Viktoria:
+https://vik.hk/dokumentumok/mernokinformatikus-zarovizsga-feladatsorok/
+
 - Probably Vik Wiki
 
 ```
